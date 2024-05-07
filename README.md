@@ -1,6 +1,6 @@
 ### Entre o céu e a terra, sou o mais honrado.
 
-<!--
+Na teoria me chamo Guilherme 
 **guimiau/Guimiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
